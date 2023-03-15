@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Szymon</h1>
+<h1 align="center">Yo 👋, I'm Szymon</h1>
 <h3 align="center">CS student at Gdańsk University of Technology & e-commerce buisness owner.</h3>
 
 - 🔭 I’m currently working on **a big AI project about generating thermal face images of non existing people.**

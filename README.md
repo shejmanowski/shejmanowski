@@ -11,7 +11,7 @@
 
 - 📫 How to reach me [shejmanowskii@gmail.com](shejmanowskii@gmail.com)
 
-- ⚡ Fun fact **big fan of deadlifts, economy, psychology and neuroscience.**
+- ⚡ Fun fact **big fan of deadlifting, economy, psychology and neuroscience.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,9 +1,11 @@
-<h1 align="center">Yo 👋, I'm Szymon</h1>
+<h1 align="center">Yoo 👋, I'm Szymon</h1>
 <h3 align="center">CS student at Gdańsk University of Technology & e-commerce buisness owner.</h3>
 
 - 🔭 I’m currently working on **a big AI project about generating thermal face images of non existing people.**
 
 - 🌱 I’m currently learning **AI, neural networks, VAE, GANs. About to start Flutter journey.**
+
+- 👨🏼‍🔬 Also my Engineering Thesis is **in progress...**
 
 - 🤝 I’m open to collaborate on **any interesting, developing or profitable project.**
 
@@ -11,7 +13,7 @@
 
 - 📫 How to reach me [shejmanowskii@gmail.com](shejmanowskii@gmail.com)
 
-- ⚡ Fun fact **big fan of deadlifting, economy, psychology and neuroscience.**
+- ⚡ Fun fact **big fan of deadlifts, economy, psychology and neuroscience.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

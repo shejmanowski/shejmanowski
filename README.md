@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **a big AI project about generating thermal face images of non existing people.**
 
-- 🌱 I’m currently learning **AI, neural networks, VAE, GANs. About to start Flutter journey.**
-
 - 👨🏼‍🔬 Also my Engineering Thesis is **in progress...**
+
+- 🌱 I’m currently learning **AI, neural networks, VAE, GANs. About to start Flutter journey.**
 
 - 🤝 I’m open to collaborate on **any interesting, developing or profitable project.**
 

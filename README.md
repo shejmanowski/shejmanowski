@@ -5,11 +5,11 @@
 
 - 👨🏼‍🔬 Also my Engineering Thesis is **in progress...**
 
-- 🌱 I’m currently learning **AI, neural networks, VAE, GANs. About to start Flutter journey.**
+- 🌱 I’m currently learning **ML, neural networks, VAE, GANs.**
 
 - 🤝 I’m open to collaborate on **any interesting, developing or profitable project.**
 
-- 🔍 I’m currently looking for **an internship, preferably in AI/ML.**
+- 🔍 I’m currently looking for **an internship, preferably in ML.**
 
 - 📫 How to reach me [shejmanowskii@gmail.com](shejmanowskii@gmail.com)
 
